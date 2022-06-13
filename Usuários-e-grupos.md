@@ -1,12 +1,14 @@
-#Vamos começar relembrando alguns conceitos basicos, tudo no linux é salvo como um ARQUIVO.
-/etc/group  - Arquivo que armazena os grupos do linux 
- /etc/passwd - arquivo que armazena os Usuarios do linux 
- /etc/shadow - arquivo que armazena as senhas dos usuários no linux 
-    as senhas no linux são criptografadas por
+## Usuários e Grupos no Linux ##
+Vamos começar relembrando alguns conceitos basicos, tudo no linux é salvo como um ARQUIVO.
+
+```/etc/group```   -> Arquivo que armazena os grupos do linux 
+ ``` /etc/passwd```  -> arquivo que armazena os Usuarios do linux
+ ``` /etc/shadow ``` -> arquivo que armazena as senhas dos usuários no linux
+As senhas no linux são criptografadas por
         SHA-256 -> 256 bits 
         SHA-512 -> 512 bits
 
-#Tipos de arquivos e pastas
+### Tipos de arquivos e pastas ###
 - -> arquivo 
 d -> pasta-diretorio
 l -> link/atalho

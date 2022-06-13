@@ -1,11 +1,16 @@
-#para criar pastas e subpastas de uma vez
-mkdir -p
+# Comandos iniciais no linux #
 
-#para criar varias pastas de uma vez coloque entre {}
-mkdir -p senai-sc/{dev,multi,redes}
+## para criar pastas ##
 
-#E para criar as subpastas dentro das pastas use de novo as {}. se for criar só uma subpasta não coloque entre chaves
+`mkdir`
+
+### para criar varias pastas de uma vez coloque entre {} ###
+`mkdir -p senai-sc/{dev,multi,redes} `
+
+#### E para criar as subpastas dentro das pastas use de novo as {}. se for criar só uma subpasta não coloque entre chaves ###
+```
 mkdir -p senai-sc/{dev/{1-semestre,2-semestre,3-semestre},multi/2-semestre,redes}
+```
 
 #Se quiser colocar uma subpasta na subpasta coloque a /
 mkdir -p senai-sc/{dev/{1-semestre,2-semestre/prova,3-semestre},multi/2-semestre,redes/{1-semestre/script,2-semestre,3-semestre/script}}

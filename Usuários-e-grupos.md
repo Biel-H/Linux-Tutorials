@@ -1,8 +1,8 @@
 <!--ts-->
-* [Usúarios e grupos no Linux](##Usuários-e-Grupos-no-Linux##)
-* [Tipos de arquivos e pastas](##Tipos-de-arquivos-e-pastas##)
-* [Criando um grupo](##Criar-um-grupo##)
-* [Alterações em grupos](####ALTERAÇÕES-EM-GRUPOS####)
+* [Usúarios e grupos no Linux](## Usuários-e-Grupos-no-Linux ##)
+* [Tipos de arquivos e pastas](## Tipos-de-arquivos-e-pastas ##)
+* [Criando um grupo](## Criar-um-grupo ##)
+* [Alterações em grupos](#### ALTERAÇÕES-EM-GRUPOS ####)
 <!--te-->
 ## Usuários e Grupos no Linux ##
 Vamos começar relembrando alguns conceitos basicos, tudo no linux é salvo como um ARQUIVO.
